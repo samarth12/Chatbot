@@ -6,3 +6,4 @@ To run the file use the following command:
 
 python3 bot_basic.py "User input" eg. python3 bot_basic.py "Hi bot!"
 
+config.py consisits of some words to filter out unwanted inputs and responses. 
